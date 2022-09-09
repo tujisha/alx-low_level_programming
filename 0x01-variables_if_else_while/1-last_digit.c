@@ -8,7 +8,6 @@
 * This program prints "Programming is positive, zero or negative
 * Return: 0
 **/
-
 int main(void)
 {
 	int n;
