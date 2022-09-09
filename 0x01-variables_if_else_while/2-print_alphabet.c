@@ -6,7 +6,7 @@
 * This program prints "Programming is positive, zero or negative
 * Return: 0
 **/
-int void main()
+int main()
 {
 	char ch;
 for (ch = 'a' ; ch <= 'z' ; ch++)
