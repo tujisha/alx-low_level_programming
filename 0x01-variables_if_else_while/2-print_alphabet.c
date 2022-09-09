@@ -2,13 +2,13 @@
 /**
 * Main - print if the number is positive, zero, or negative
 *
-* Description: 'using the Main function'
+* Description: 'using the main function'
 * This program prints "Programming is positive, zero or negative
 * Return: 0
 **/
-int Main(void)
+int main(void)
 {
-	chr ch;
+	char ch;
 for (ch = 'a' ; ch <= 'z' ; ch++)
 {
 putchar(ch) ;
