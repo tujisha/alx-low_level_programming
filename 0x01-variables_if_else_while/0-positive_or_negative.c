@@ -5,6 +5,7 @@
 /*Description: using the main function*/
 /*This program prints "Programming is positive, zero or negative"*/
 /*Return 0;*/
+/*Betty documentation style*/
 
 int main(void)
 {
