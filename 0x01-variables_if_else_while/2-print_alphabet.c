@@ -1,17 +1,17 @@
 #include <stdio.h>
 /**
-* main - print if the number is positive, zero, or negative
+* Main - print if the number is positive, zero, or negative
 *
-* Description: 'using the main function'
+* Description: 'using the Main function'
 * This program prints "Programming is positive, zero or negative
 * Return: 0
 **/
-int main(void)
+int Main(void)
 {
-	Chr ch;
+	chr ch;
 for (ch = 'a' ; ch <= 'z' ; ch++)
 {
-putchar(ch);
+putchar(ch) ;
 }
 putchar('\n');
 	return (0);
