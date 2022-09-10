@@ -2,8 +2,9 @@
 #include<time.h>
 #include <stdio.h>
 /**
- * Main - Entry point
-*
+ * main - Entry point
+ * @my_arg: its mine damnit
+ * Description: Does my stuff explained.
  * Return: Always 0
 */
 int main(void)
