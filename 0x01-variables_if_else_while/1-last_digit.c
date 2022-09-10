@@ -2,12 +2,12 @@
 #include <time.h>
 #include <stdio.h>
 /**
-* Main - Entry point
+* main - Entry point
 *
 * Description: 'using the main function'
 *
 * Return: 0
-**/
+*/
 int main(void)
 {
 	int n;
