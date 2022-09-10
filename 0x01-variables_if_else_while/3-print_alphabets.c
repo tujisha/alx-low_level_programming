@@ -3,6 +3,7 @@
 #include<stdlib.h>
 /**
 * main - Entry point
+*
 * Description: 'using the main function.'
 *
 * Return: 0 on success
