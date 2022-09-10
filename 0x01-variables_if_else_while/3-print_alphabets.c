@@ -1,12 +1,10 @@
-#include<stdio.h>
-#include<time.h>
-#include<stdlib.h>
+#include <stdio.h>
 /**
-* main - Entry point
+* main - prints the alphabet in lowercase.
 *
- * Description: 'Does my stuff explained.'
+* Description: 'using the main function'
 *
- * Return: Always 0
+* Return: 0 on success
 */
 int main(void)
 {
@@ -15,6 +13,11 @@ for (ch = 'a' ; ch <= 'z' ; ch++)
 {
 putchar(ch);
 }
+for (ch = 'A' ; ch <= 'Z' ; ch++)
+{
+putchar(ch);
+}
 putchar('\n');
 	return (0);
 }
+
