@@ -1,10 +1,13 @@
-#include <stdio.h>
+#include<stdio.h>
+#include<time.h>
+#include<stdlib.h>
 /**
-*  main - Entry point
-*  Description: 'using the main function'
-*  This program prints "Programming is positive, zero or negative
-*  Return: 0 on success
-**/
+* main - Entry point
+*
+ * Description: 'Does my stuff explained.'
+*
+ * Return: Always 0
+*/
 int main(void)
 {
 	char ch;
