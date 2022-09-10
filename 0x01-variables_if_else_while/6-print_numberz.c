@@ -3,7 +3,7 @@
 #include <stdio.h>
 /**
  * main - Entry point
- *
+*
  * Description: 'Does my stuff explained.'
  * Return: Always 0
 */
