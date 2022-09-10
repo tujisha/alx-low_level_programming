@@ -5,6 +5,7 @@
  * main - Entry point
 *
  * Description: 'Does my stuff explained.'
+*
  * Return: Always 0
 */
 int main(void)
