@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 #include<stdio.h>
 /**
 * main - Entry point
@@ -6,7 +6,7 @@
 */
 int main(void)
 {
-char c[10] = "Holberton";
+char c[10] = "main";
 int i = 0;
 while (i < 9)
 {
