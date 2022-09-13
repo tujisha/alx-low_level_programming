@@ -1,4 +1,5 @@
 #include "holberton.h"
+#include<stdio.h>
 /**
 * main - Entry point
 * Return:0
@@ -9,9 +10,9 @@ char c[10] = "Holberton";
 int i = 0;
 while (i < 9)
 {
-putchar(c[i]);
+_putchar(c[i]);
 i++;
 }
-putchar('\n');
+_putchar('\n');
 return (0);
 }
