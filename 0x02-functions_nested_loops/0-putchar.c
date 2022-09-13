@@ -1,18 +1,17 @@
-#include "holberton.h"
-#include<stdio.h>
+#include "main.h"
 /**
 * main - Entry point
 * Return:0
 */
 int main(void)
 {
-char c[10] = "Holberton";
+char c[10] = "main";
 int i = 0;
 while (i < 9)
 {
-putchar(c[i]);
+_putchar(c[i]);
 i++;
 }
-putchar('\n');
+_putchar('\n');
 return (0);
 }
