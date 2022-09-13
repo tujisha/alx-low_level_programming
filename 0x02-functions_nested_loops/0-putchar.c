@@ -1,4 +1,4 @@
-#include "main.h"
+include "main.h"
 #include<stdio.h>
 /**
 * main - Entry point
@@ -6,7 +6,7 @@
 */
 int main(void)
 {
-char c[10] = "_putchar";
+char c[9] = "_putchar";
 int i = 0;
 while (i < 9)
 {
