@@ -19,7 +19,7 @@ length += 1;
 return (length);
 }
 /**
-* main - 
+* main - entry point
 * Description: prints the first 98 fibonaci sequences
 *  Return: 0
 */
