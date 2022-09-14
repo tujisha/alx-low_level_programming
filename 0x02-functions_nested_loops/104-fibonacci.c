@@ -19,8 +19,8 @@ length += 1;
 return (length);
 }
 /**
-*
-*main - prints the first 98 fibonaci sequences
+* main - 
+* Description: prints the first 98 fibonaci sequences
 *  Return: 0
 */
 int main(void)
