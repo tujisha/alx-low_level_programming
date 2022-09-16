@@ -1,12 +1,11 @@
 #include <stdio.h>
 /**
-* main - check the code for Holberton School students.
+* main - check the code for School students.
 *
 * Return: void.
-*/ 
+*/
 int main(void)
 {
-
 int i = 1;
 while (i <= 100)
 {
