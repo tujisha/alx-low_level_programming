@@ -32,8 +32,7 @@ m[i + 2] = '\0';
 return (m);
 }
 /**
-* *nbr_spaces
-return the number of occurent of a string
+* *nbr_spaces - return the number of occurent of a string
 * @s: string to check
 * Return: int
 */
@@ -42,7 +41,7 @@ unsigned int nbr_spaces(char *s)
 int i, cmpt = 0;
 for (i = 0; s[i + 1] != '\0'; i++)
 {
-if (s[i]  == ' ' && s[i + 1] != ' ')
+if (s[i] == ' ' && s[i + 1] != ' ')
 cmpt++;
 }
 return (cmpt + 1);
@@ -56,9 +55,8 @@ char **strtow(char *str)
 {
 int i;
 int spaces = nbr_spaces(str);
-char **tokens = NULL;//
-malloc(sizeof(char *) * (spaces));
-char *token;
+char **tokens = NULL;//malloc(sizeof(char *) * (spaces));
+char*token;
 int checkingSpace = 0;
 int word = 0;
 if (!tokens)
