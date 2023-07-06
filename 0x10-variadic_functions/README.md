@@ -1,1 +1,0 @@
-variadic functions .md
